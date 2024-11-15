@@ -10,7 +10,7 @@ namespace ConsoleIO
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello, my name is Aba!");
+            //Console.WriteLine("Hello, my name is Toni!");
 
             Console.Write("Enter your name: "); // use Write to not push into another line
             string name = Console.ReadLine();

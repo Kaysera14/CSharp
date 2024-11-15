@@ -10,7 +10,7 @@ namespace String_Chars
     {
         static void Main(string[] args)
         {
-            string name = "Aba"; //required speech marks for names
+            string name = "Toni"; //required speech marks for names
             char letter = 'a'; // char needs  quotations mark
 
             Console.Write("Your name is: "); // only using Write makes everything a single line

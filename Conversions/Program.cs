@@ -11,7 +11,7 @@ namespace Conversions
         static void Main(string[] args)
         {
             // . is used in decimal in other countries, meanwhile in Spain you need to use , to represent decimals
-            string textAge = "-23";
+            string textAge = "-28";
             int age = Convert.ToInt32(textAge); // converts a string to an int
             Console.WriteLine(age);
 

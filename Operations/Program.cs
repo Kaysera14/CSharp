@@ -10,12 +10,12 @@ namespace Operations
     {
         static void Main(string[] args)
         {
-            double age = 23; // if u are using a division, use a double
+            double age = 28; // if u are using a division, use a double
             // + - * /
             age /= 10; // 2,3 -> 2
             Console.WriteLine(age);
 
-            string name = "Aba";
+            string name = "Toni";
             name += " is programming!"; // use += to concatenate
             Console.WriteLine(name);
 

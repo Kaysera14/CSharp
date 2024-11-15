@@ -17,7 +17,7 @@ namespace DataTypes
 
             int x = 10, y = 20, z = 30;
 
-            int age = -23; // value initialization
+            int age = -28; // value initialization
             Console.WriteLine(age);
             Console.WriteLine(int.MaxValue); // max number in int
             Console.WriteLine(int.MinValue); // min number in int

@@ -12,8 +12,8 @@ namespace Var
         {
             // use var when it's very obvious what the variable will be, to avoid errors
 
-            //int age = -23;
-            var age = 23;
+            //int age = -28;
+            var age = 28;
             Console.WriteLine(age);
 
             //long bigNumber = -900000000L;
@@ -29,7 +29,7 @@ namespace Var
             var money = 14.99M;
             Console.WriteLine(money);
 
-            var name = "Aba";
+            var name = "Toni";
             Console.WriteLine(name);
 
             var letter = "a";

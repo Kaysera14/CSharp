@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output", "Output\Output.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeFormatting", "CompositeFormatting\CompositeFormatting.csproj", "{383C3D50-5591-4F13-8E18-5338D81B3569}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolation", "Interpolation\Interpolation.csproj", "{196D0739-F673-4BCF-856B-4312D3C75A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenation", "Concatenation\Concatenation.csproj", "{E3F8613C-F6A4-44EB-BC8D-09232BDDEB63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{383C3D50-5591-4F13-8E18-5338D81B3569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383C3D50-5591-4F13-8E18-5338D81B3569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383C3D50-5591-4F13-8E18-5338D81B3569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196D0739-F673-4BCF-856B-4312D3C75A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196D0739-F673-4BCF-856B-4312D3C75A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196D0739-F673-4BCF-856B-4312D3C75A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196D0739-F673-4BCF-856B-4312D3C75A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F8613C-F6A4-44EB-BC8D-09232BDDEB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F8613C-F6A4-44EB-BC8D-09232BDDEB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F8613C-F6A4-44EB-BC8D-09232BDDEB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F8613C-F6A4-44EB-BC8D-09232BDDEB63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
